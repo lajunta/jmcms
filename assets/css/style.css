@@ -1,0 +1,27 @@
+/* CSS Document */
+
+.ui-bar-f
+{
+color:white;
+background-color:red;
+}
+.ui-body-f
+{
+font-weight: normal;
+}
+
+#index_lp img{
+	width:100%;
+	height:auto;	
+}
+.bgimg{
+	background-image:url(../jqm/images/icons-png/home-white.png);
+	background-repeat:no-repeat;
+	background-position:4 20;	
+}
+
+.ui-grid-a div{
+	text-align:center;
+	padding:5px;
+	margin:0 auto;
+}
